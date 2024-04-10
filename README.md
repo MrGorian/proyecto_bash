@@ -8,8 +8,9 @@ Este readme es mi primer practica de documentación
 ### ¿Como probar el repositorio?
 Para ejecutar el repo, abre una terminal y ejecuta el siguiente comando:
 
+```
 bash ejecutador.sh
-
+```
 
 ### Autor:
 Julio Galindo-Calzadas; julio.galindo.calzadas@gmail.com
